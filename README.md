@@ -14,10 +14,16 @@ This keylogger is a simple Python script using the `pynput` library to capture a
 - Logs both alphanumeric and special keys.
 - Outputs the logged data to a text file (`log.txt`).
 
+## Installation
 
-### Install the required dependencies
+1. Clone the repository:
 
-'''bash
+   ```bash
+   git clone https://github.com/kartik-sharda22/educational-keylogger.git
+
+
+Install the required dependencies:
+
 pip install pynput
 
 
