@@ -22,13 +22,13 @@ This keylogger is a simple Python script using the `pynput` library to capture a
    git clone https://github.com/kartik-sharda22/keylogger-software.git
 
 
-  ### Install the required dependencies:
-      ```bash
+### Install the required dependencies:
+      
       pip install pynput
 
 ## Usage
 
-python keyloggerproject.py
+   python keyloggerproject.py
 
 
 ## Disclaimer
