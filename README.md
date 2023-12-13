@@ -19,12 +19,12 @@ This keylogger is a simple Python script using the `pynput` library to capture a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kartik-sharda22/educational-keylogger.git
+   git clone https://github.com/kartik-sharda22/keylogger-software.git
 
 
 Install the required dependencies:
-
-pip install pynput
+   ```bash
+   pip install pynput
 
 
 ## Usage
