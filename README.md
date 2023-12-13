@@ -17,7 +17,8 @@ This keylogger is a simple Python script using the `pynput` library to capture a
 
 ### Install the required dependencies
 
-''' pip install pynput '''
+'''bash
+pip install pynput
 
 
 ## Usage
